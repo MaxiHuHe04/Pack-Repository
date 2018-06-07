@@ -1,0 +1,12 @@
+{
+    "manifest-version": "1.0.0",
+    "datapacks": [
+        "https://raw.githubusercontent.com/BasicPack/Pack-Repository/master/jsons/datapacks.json"
+    ],
+    "mcfunctions": [
+        "https://raw.githubusercontent.com/BasicPack/Pack-Repository/master/jsons/mcfunctions.json"
+    ],
+    "structures": [
+        "https://raw.githubusercontent.com/BasicPack/Pack-Repository/master/jsons/structures.json"
+    ]
+}

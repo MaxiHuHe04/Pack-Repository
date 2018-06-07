@@ -1,0 +1,15 @@
+{
+    "manifest-version": "1.0.0",
+    "objects": [
+        {
+            "id": "com.github.basicpack:core",
+            "name": "BasicPack Core",
+            "download": "maven",
+            "versions": [
+                "0.1.0"
+            ],
+            "url": "https://basicpack.github.io",
+            "maven": "https://raw.githubusercontent.com/BasicPack/Pack-Repository"
+        }
+    ]
+}
